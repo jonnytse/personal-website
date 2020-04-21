@@ -42,7 +42,7 @@ h1 {
         width: 0;
     }
     to {
-        width: 17em;
+        width: 18em;
     }
 }
 
@@ -77,11 +77,11 @@ span.litch {
 
 li {
     list-style-type: none;
+    font-size: 1.1em;
 }
 
 .object {
     color: lightsalmon;
-    font-size: 0.9em;
     padding-top: 20px;
     margin: 0 auto;
     overflow-wrap: break-word;
@@ -183,7 +183,7 @@ section p {
 .about_me {
     color: white;
     width: 70%;
-    font-size: 1.1em;
+    font-size: 1.3em;
     word-wrap: break-word;
     /* border: 1px white solid; */
 }
