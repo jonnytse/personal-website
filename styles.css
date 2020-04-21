@@ -85,11 +85,9 @@ li {
     padding-top: 20px;
     margin: 0 auto;
     overflow-wrap: break-word;
-    width: 460px;
+    width: 500px;
     height: auto;
-    /* border: 1px solid white; */
 }
-
 
 section p {
     margin: 5px;
